@@ -1,4 +1,4 @@
-# Comandos Git utilizados en este proyecto
+﻿# Comandos Git utilizados en este proyecto
 
 ## Configuración inicial
 
@@ -34,4 +34,13 @@ git log --oneline
 git reset --soft HEAD~1
 git reset --hard HEAD~1
 git checkout <commit-hash> -- archivo.txt
+```
+
+## Resolución de conflictos
+
+```bash
+git merge otra-rama
+# Editar archivos con conflictos
+git add archivo-resuelto.txt
+git commit -m "merge: resolver conflictos"
 ```
