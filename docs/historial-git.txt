@@ -1,0 +1,18 @@
+﻿* 0afd186 docs: actualizar README con estructura e historial de ramas
+* 90901f2 style: agregar estilos para encabezados h2
+* 3a759b3 merge: integrar rama develop con documentaci├│n actualizada
+| * 5572c5c docs: ampliar gu├¡a de comandos Git
+|/  
+* 4b8633d fix: corregir a├▒o en README
+*   459f88c merge: resolver conflicto en secci├│n de contacto combinando ambas versiones
+|\  
+| * afe0558 feat: actualizar secci├│n de contacto con m├ís informaci├│n
+* | a046b01 feat: agregar secci├│n de contacto en main
+|/  
+| * 2649491 feat: actualizar secci├│n de contacto con m├ís informaci├│n
+| * 19f4aea feat: agregar secci├│n de contacto en main
+|/  
+* 5b4711b feat: agregar mensaje de bienvenida interactivo
+* a0833fa feat: agregar estilos CSS al proyecto
+* c34d1ed docs: ampliar descripci├│n en README
+* 36ddf7f Commit inicial: estructura base del proyecto
