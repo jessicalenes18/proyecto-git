@@ -8,4 +8,4 @@ Este repositorio demuestra el uso de Git: commits, ramas, merges y conflictos.
 
 ## Autor
 
-Jessica - Práctica de Git y GitHub
+Jessica - Práctica de Git y GitHub - 2026
